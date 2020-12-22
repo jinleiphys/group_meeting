@@ -218,6 +218,11 @@ c****
        		write (7,*) hcm*ir, phi(ir)
        	end do
         write(7,*)"&"
+        
+        
+        
+        
+        write(*,*) "??????????"
 
 
       end subroutine npbound
